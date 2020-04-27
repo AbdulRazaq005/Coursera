@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.container{
+    height: 400px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    border: white solid 5px;
+    
+}
+
+.col{
+    box-sizing: border-box;
+    padding: 20px;
+    height: 200px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    background-color:white;
+    border: black solid 5px;
+}
