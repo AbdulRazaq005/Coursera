@@ -1,0 +1,29 @@
+@media (min-width:768px){
+    #visibility{
+        display: none;
+    }
+
+}
+#visibility{
+    width: 100%;
+}
+.col-12 section{
+    background-color: gray;
+    padding: 20px;
+    font-size: 1.2em;
+    width: 90%;
+    margin: auto;
+}
+#hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0px;
+    background-color:gray;
+    height: 1px;
+    width: 90%;
+}
+#menu-color{
+    color: white;
+}
